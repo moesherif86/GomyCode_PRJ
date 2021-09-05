@@ -1,0 +1,8 @@
+#question 1 answer
+fn = input("what is your name:")
+ln = input('what is your family name:')
+print ("hello ", ln,",",fn)
+#
+#Question 2 asnswer
+a = int(input('enter number :'))
+print (a+a*11+a*111)
